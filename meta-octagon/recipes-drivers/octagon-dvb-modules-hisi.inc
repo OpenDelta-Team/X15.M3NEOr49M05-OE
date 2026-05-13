@@ -6,7 +6,7 @@ PACKAGE_ARCH = "${MACHINE_ARCH}"
 
 PV = "${KV}-${SRCDATE}"
 
-SRC_URI = "http://downloads.openpli.org/archive/octagon/${MACHINE}-hiko-${SRCDATE}.zip \
+SRC_URI = "https://source.mynonpublic.com/octagon/${MACHINE}-hiko-${SRCDATE}.zip \
     file://modules \
 "
 
